@@ -27,14 +27,9 @@ permalink: pretty
 logo: "/assets/img/avatar.jpg"
 favicons: "/assets/favicon.ico"
 
-# headers
-webrick:
-  headers:
-    Access-Control-Allow-Origin: "*"
-
-# Pagination
-paginate: 5
-paginate_path: blog/page:num
+## Pagination
+#paginate: 5
+#paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
@@ -53,9 +48,9 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Blog
     output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
+#    description: "My thoughts and ideas"
+#    feature_text: |
+#      Welcome to my blog
     feature_image: "https://picsum.photos/2560/600?image=866"
