@@ -1,6 +1,9 @@
 ---
 layout: page
-title: About this website
+title: Vision
 ---
-
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+---
+Intégrer le résultat des mes recherches, liens et mémos sur différents sujets :
+- Développement personnel : socio, psy, comportement, réflexion, philo,..
+- Corps : alimentation, sport, sommeil
+- Travail et l'apprentissage de toutes sortes de skills ou activités, business, métier, IT, parentage,..

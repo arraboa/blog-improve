@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-03T11:49:57+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My website</title><subtitle>This is my new website</subtitle><entry><title type="html">SAS - Société par actions simplifiée</title><link href="http://localhost:4000/business/2019/09/02/sas/" rel="alternate" type="text/html" title="SAS - Société par actions simplifiée" /><published>2019-09-02T00:00:00+02:00</published><updated>2019-09-02T00:00:00+02:00</updated><id>http://localhost:4000/business/2019/09/02/sas</id><content type="html" xml:base="http://localhost:4000/business/2019/09/02/sas/">&lt;p&gt;Liberté, définie par statuts, souplesse&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://droit-finances.commentcamarche.com/contents/1559-sas-societe-par-actions-simplifiee-definition-et-statuts&quot;&gt;explications complètes&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;pouvoirs&quot;&gt;Pouvoirs&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Un président qui représente la SAS&lt;/li&gt;
+  &lt;li&gt;Répartition selon l’accord préalable des associés&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;avantages&quot;&gt;Avantages&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Souplesse&lt;/li&gt;
+  &lt;li&gt;adaptabilité aux besoins&lt;/li&gt;
+  &lt;li&gt;libre fixation des règles, clauses,..&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;inconvénients&quot;&gt;Inconvénients&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;risques de par le faible encadrement&lt;/li&gt;
+  &lt;li&gt;nécessite souvent l’intervention d’un avocat pour la rédaction&lt;/li&gt;
+  &lt;li&gt;formalités de consitution assez lourdes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;etapes-de-création-formalités&quot;&gt;Etapes de création, formalités&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.lecoindesentrepreneurs.fr/formalites-creation-sas/&quot;&gt;formalités détaillées&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rédaction des status : rédigés par acte notarié, signés par tous (&lt;a href=&quot;https://www.lecoindesentrepreneurs.fr/mentions-obligatoires-statuts-de-sas-sasu/&quot;&gt;détail des mentions&lt;/a&gt;)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dépôt des apports sur compte bloqué&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;publication d’un avis de consitution dans un journal d’annonces légales&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;dépôt du dossier de création de SAS au greffe&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;inscription au registre des bénéficiaires actifs&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Liberté, définie par statuts, souplesse</summary></entry><entry><title type="html">BP - Business plan</title><link href="http://localhost:4000/business/2019/09/02/business-plan/" rel="alternate" type="text/html" title="BP - Business plan" /><published>2019-09-02T00:00:00+02:00</published><updated>2019-09-02T00:00:00+02:00</updated><id>http://localhost:4000/business/2019/09/02/business-plan</id><content type="html" xml:base="http://localhost:4000/business/2019/09/02/business-plan/">&lt;h3 id=&quot;cours-openclassroom&quot;&gt;Cours openclassroom&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://openclassrooms.com/fr/courses/3199026-construire-son-business-plan&quot;&gt;lien du cours&lt;/a&gt;
+&lt;a href=&quot;https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/construire-son-business-plan-1/Cours/P1C1_BP+PIVAL.pdf&quot;&gt;annexe du cours&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Cours openclassroom lien du cours annexe du cours</summary></entry><entry><title type="html">Hello World</title><link href="http://localhost:4000/general/2018/08/22/hello-world/" rel="alternate" type="text/html" title="Hello World" /><published>2018-08-22T00:00:00+02:00</published><updated>2018-08-22T00:00:00+02:00</updated><id>http://localhost:4000/general/2018/08/22/hello-world</id><content type="html" xml:base="http://localhost:4000/general/2018/08/22/hello-world/">&lt;p&gt;This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.&lt;/p&gt;</content><author><name></name></author><summary type="html">This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.</summary></entry></feed>

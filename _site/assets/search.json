@@ -1,0 +1,54 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Hello World",
+        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "url": "/general/2018/08/22/hello-world/"
+      },
+    
+      {
+        "title": "BP - Business plan",
+        "excerpt": "Cours openclassroom\nlien du cours\nannexe du cours\n",
+        "content": "Cours openclassroom\nlien du cours\nannexe du cours\n",
+        "url": "/business/2019/09/02/business-plan/"
+      },
+    
+      {
+        "title": "SAS - Société par actions simplifiée",
+        "excerpt": "Liberté, définie par statuts, souplesse\n\n",
+        "content": "Liberté, définie par statuts, souplesse\n\nexplications complètes\n\nPouvoirs\n\n  Un président qui représente la SAS\n  Répartition selon l’accord préalable des associés\n\n\nAvantages\n\n  Souplesse\n  adaptabilité aux besoins\n  libre fixation des règles, clauses,..\n\n\nInconvénients\n\n  risques de par le faible encadrement\n  nécessite souvent l’intervention d’un avocat pour la rédaction\n  formalités de consitution assez lourdes\n\n\nEtapes de création, formalités\nformalités détaillées\n\n\n  \n    Rédaction des status : rédigés par acte notarié, signés par tous (détail des mentions)\n  \n  \n    Dépôt des apports sur compte bloqué\n  \n  \n    publication d’un avis de consitution dans un journal d’annonces légales\n  \n  \n    dépôt du dossier de création de SAS au greffe\n  \n  \n    inscription au registre des bénéficiaires actifs\n  \n\n",
+        "url": "/business/2019/09/02/sas/"
+      },
+    
+  
+  
+  
+  {
+    "title": "Vision",
+    "excerpt": "\n",
+    "content": "\n\nIntégrer le résultat des mes recherches, liens et mémos sur différents sujets :\n\n  Développement personnel : socio, psy, comportement, réflexion, philo,..\n  Corps : alimentation, sport, sommeil\n  Travail et l’apprentissage de toutes sortes de skills ou activités, business, métier, IT, parentage,..\n\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  }
+  
+]
+
