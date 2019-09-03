@@ -25,6 +25,7 @@ title: 'Improve'
 description: 'Personal thoughts, studies and contemplations'
 permalink: pretty
 logo: "/assets/img/avatar.jpg"
+favicons: "/assets/favicon.ico"
 
 # headers
 webrick:
